@@ -1,0 +1,13 @@
+.carousel-item img {
+    height: 570px;
+}
+
+.carousel-item h1 {
+    font-size: 100px;
+    color: rgb(245, 239, 239);
+
+}
+
+.text-center {
+    margin-top: 100px;
+}
