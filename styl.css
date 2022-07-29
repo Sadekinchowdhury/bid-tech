@@ -1,7 +1,8 @@
 .carousel-item img {
 
     height: 570px;
-    color: rgb(110, 110, 110);
+    background-color: black;
+
 
 }
 
@@ -25,4 +26,12 @@
 
 .container3 {
     height: 350px;
+}
+
+.pa {
+    justify-content: center;
+    text-align: center;
+
+
+
 }
