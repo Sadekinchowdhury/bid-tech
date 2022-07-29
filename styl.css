@@ -1,5 +1,8 @@
 .carousel-item img {
+
     height: 570px;
+    color: rgb(110, 110, 110);
+
 }
 
 .carousel-item h1 {
@@ -10,4 +13,8 @@
 
 .text-center {
     margin-top: 100px;
+}
+
+.card {
+    display: flex;
 }
